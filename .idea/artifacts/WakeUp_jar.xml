@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WakeUp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WakeUp_jar</output-path>
+    <root id="archive" name="WakeUp.jar">
+      <element id="module-output" name="WakeUp" />
+    </root>
+  </artifact>
+</component>
